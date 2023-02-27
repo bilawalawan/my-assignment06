@@ -1,0 +1,314 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+
+.nav-logo{
+    color: #F17228;
+    font-weight: 700;
+}
+
+.nav-logo span{
+   color:  #FFB30E;
+   font-weight: 700;
+}
+
+.navbartop{
+    position: sticky;
+}
+
+.first-para span{
+    color: rgb(70, 69, 69);
+    font-size: 16px;
+    font-weight: 100;
+}
+.first-para span img{
+    width: 16px;
+    margin-left: 10px;
+    margin-right: 6px;
+}
+
+.my-form p{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.my-form img{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.my-btn2{
+    color: #F17228;
+    align-items: center;
+    border: none;
+    padding: auto;
+
+}
+
+.my-btn img{
+    margin-bottom: 20px;
+}
+
+.hero1{
+    background: url(./assets/first-background.png);
+    padding-left: 40px;
+    padding-top: 60px;
+    
+}
+
+.herosearch-bar{
+    border-radius: 5px;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.bike{
+    color: #F17228;
+}
+
+.search1{
+    /* padding: 21px 48px; */
+    border-radius: 4px;
+    color: white;
+    background-color: #F17228;
+    border: none;
+    border-radius: 4px;
+}
+
+.searchme{
+    width: 400px;
+    height: 40px;
+    border: none;
+    border-radius: 2px;
+
+}
+
+.myimg{
+    width: 10px;
+}
+
+.left-side img{
+    border-radius: 30%;
+    width: 250px;
+    
+}
+
+.card{
+    display: grid;
+    gap: 0px;
+    margin: 10px;
+    padding: 0%;
+    border: none;
+}
+
+.card h4{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.card p{
+    color: rgb(247, 8, 8);
+    font-weight: 500;
+    border-radius: 3px;
+    text-align: center;
+}
+
+#hero3{
+    background-color: #faf3e5;
+}
+
+.w1{
+    padding: 70px;
+    text-align: center;
+    font-size: small;
+}
+
+.more-work h1{
+    color: #F17228;
+    font-weight: 800;
+}
+
+.set-img img{
+    width: 20px;
+    
+}
+
+.my-btn{
+    background-color: #F17228;
+    color: black;
+    font-weight: 500;
+}
+
+.picside img{
+    width: 40px;
+}
+
+.ptitle {
+    background: rgba(241, 114, 40, 0.2);
+    border-radius: 16px;
+    padding: 8px, 16px, 8px, 16px;
+    color: #F17228;
+    font-size: 15px;
+    
+}
+
+.viewbtn .my-btn1{
+   
+    position: relative;
+    top: 50%;
+    margin: 50px;
+    margin-left: 50%;
+    padding-right: 20px;
+    padding-left: 20px;
+  
+  
+}
+
+.arrowimg img{
+    width: 60px;
+    margin: 0%;
+    
+}
+
+.food-img img{
+    width: 190px;
+    margin-top: 30px;
+}
+
+.social-section{
+    background-color: #FEEFD0;
+}
+
+.mobile-app1{
+    border-radius: 20px;
+    align-items: center;
+    padding: 30px 40px;
+    margin-top: 40px;
+    text-align: center;
+    color: #fc6209;
+    font-weight: 500;
+    
+}
+
+.mobile-app1 img{
+    width: 60px;
+    padding-left: 20px;
+    
+}
+.my-card1{
+    border-radius: 10px;
+    width: 100%;
+    
+    box-shadow: #0e0d0d 0px 0px 1px 1px;
+}
+.card-img-side img{
+    width: 40rem;
+    border-radius: 10px;
+}
+.card-1{
+    padding-left: 40px;
+    padding-top: 60px;
+}
+
+.card-1 h1{
+    font-weight: 700;
+}
+
+.card-1 button{
+    margin-top: 50px;
+    color: white;
+    padding: 10px 100px;
+    background-color: #fc6209;
+    font-size: x-small;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+.heading-offer{
+    color: #FFB30E;
+}
+
+.bgpic{
+    background-image: url(./assets/Image\ \(23\).png);
+    background-size: cover;
+    background-repeat: repeat;
+    padding: 40px;
+}
+
+/* .bgpic img{
+   
+    width: 100%;
+} */
+
+.bgmaterial{
+    /* position: relative; */
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.bg-btn{
+    color: white;
+    background-color: #fc6209;
+    padding: 5px 30px;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+
+footer{
+    margin: 0%;
+    background-color: #0e0d0d;
+    color: white;
+    
+}
+.col1 ul li{
+    list-style: none;
+    font-weight: 300;
+}
+
+.item-ig img{
+    width: 30px;
+    color: white;
+}
+
+
+.col1 form input{
+    padding: 5px 30px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.col1 form button{
+    border-radius: 6px;
+    background-color: #FF8A00 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media  (max-widht: 900px) {
+    food-img img{
+        flex-direction: row;
+    }
+    
+} */
